@@ -1,1 +1,4 @@
-Rigidbody rb = rigidbody.getcomp <>
+Rigidbody rb = rigidbody.getcomp <Rigidbody>();
+
+rb.velocity = korki manga;
+movspeed = asdasd;
